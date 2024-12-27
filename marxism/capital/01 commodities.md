@@ -1,14 +1,6 @@
-# Capital
+# 1. Commodities
 
-### K. Marx
-
-(supplemented by *A Companion to Marx's Capital* by David Harvey and the *Explaining Marx's Capital Volume 1* podcast series by Liv Agar)
-
-## Part one: Commodities and money
-
-### 1. Commodities
-
-#### The two factors of a commodity: Use-value and value (the substance of value and the magnitude of value)
+## The two factors of a commodity: Use-value and value (the substance of value and the magnitude of value)
 
 A **commodity** is an object that satisfies a want
 
@@ -44,7 +36,7 @@ A **commodity** is an object that satisfies a want
       - things that are not exchanged in order to be used
   - things that are useless
 
-#### The two-fold character of the labour embodied in commodities
+## The two-fold character of the labour embodied in commodities
 
 - labour posseses "the same two-fold nature": useful labour (creates use-values - how and what?) and abstract labour power (determines exchange value - how much? how long a time?)
 - "the value of a commodity represents human labour in the abstract"
@@ -52,7 +44,7 @@ A **commodity** is an object that satisfies a want
   - value is comparable between commodities when abstracting away use-values - this is analogous to  considering labour power after abstracting away different types of labour
 
 
-#### The form of value, or exchange value
+## The form of value, or exchange value
 
 - it is impossible to express the value of a commodity in itself
   - "20 yards of linen = 20 yards of linen" statements dreamed up by the utterly deranged
@@ -67,4 +59,4 @@ A **commodity** is an object that satisfies a want
 - quantities can be compared when they are of the same unit - $x$ linen = $y$ coat implies that linen and coat have the same unit
   - the equivalent is kind of like a unit of human labour in the abstract
 
-#### The fetishism of commodities and the secret thereof
+## The fetishism of commodities and the secret thereof
